@@ -1,2 +1,4 @@
 # TelecomRacingHackathon
-Python code for Self-Driving f
+Team TeKuaiLa
+Python code for Self-Driving 
+
